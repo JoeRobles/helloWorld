@@ -342,7 +342,7 @@
 				INFOPLIST_FILE = helloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5aa82d6b-a6f9-4446-b11a-48021404a7d2";
+				PROVISIONING_PROFILE = "7bde3ec5-0c33-409d-8e8c-071c2336aca5";
 			};
 			name = Debug;
 		};
@@ -355,7 +355,7 @@
 				INFOPLIST_FILE = helloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5aa82d6b-a6f9-4446-b11a-48021404a7d2";
+				PROVISIONING_PROFILE = "7bde3ec5-0c33-409d-8e8c-071c2336aca5";
 			};
 			name = Release;
 		};
